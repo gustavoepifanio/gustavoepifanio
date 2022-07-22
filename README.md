@@ -7,16 +7,16 @@
 
 <div>
   <a href="https://github.com/gustavepifanio">
-  <img  width="41%" src="https://github-readme-stats.vercel.app/api?username=gustavoepifanio&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img  width="42%" src="https://github-readme-stats.vercel.app/api?username=gustavoepifanio&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
   <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoepifanio&layout=compact&langs_count=16&theme=discord_old_blurple"/>
- </div>
- 
- <div style="display: inline-block"><br>
+</div>
+  
+<div style="display: inline-block"><br>
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/996203294177366116/999850074685329418/gieh.gif">
+  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://s4.gifyu.com/images/gieh.gif"> 
  </div>
  
  ##
